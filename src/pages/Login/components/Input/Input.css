@@ -1,0 +1,15 @@
+.input-login{
+    margin: 5px;
+}
+
+.input-error{
+    margin: 5px;
+    border: 1px solid red;
+    color: red;
+    background: rosybrown;
+}
+
+.input-error::placeholder{
+    color: red;
+    font-size: 12px;
+}

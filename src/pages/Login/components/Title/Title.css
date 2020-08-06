@@ -1,0 +1,15 @@
+.title-container{
+    color: blue;
+    display:flex;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    justify-content: center;
+    font-family: Misfits;
+    
+}
+
+@font-face{
+    font-family: Misfits ;
+    src: url(./MISFITS_.TTF);
+}

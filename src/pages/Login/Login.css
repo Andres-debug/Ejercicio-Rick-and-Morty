@@ -1,0 +1,23 @@
+.login-container{
+
+    display:flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+
+}
+
+.login-container2{
+    margin-top: 20px;
+}
+
+body{
+    background-image:url("./rick-and-morty-wallpaper-portal-wallpaper-007.jpg");
+}
+
+.label-error{
+    font-size: 15px;
+    color: rgb(252, 4, 4) ;
+    padding: 2px;
+    font-weight: bolder;
+}
