@@ -21,3 +21,13 @@ body{
     padding: 2px;
     font-weight: bolder;
 }
+
+.label-alert{
+
+    font-size: 15px;
+    color: rgb(252, 4, 4) ;
+    padding: 2px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+
+}
