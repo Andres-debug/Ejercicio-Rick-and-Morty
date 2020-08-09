@@ -1,9 +1,12 @@
 import React from 'react';
+import CharacterList from './CharacterList';
+import Title from '../Login/components/Title/Title';
 
 const Principal= () =>{
     return(
         <div>
-            <h1>Hola Puto</h1>
+            <Title text='Personajes'/>
+            <CharacterList/>
         </div>
     )
 }
